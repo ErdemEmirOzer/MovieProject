@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1621018773 source:d:\mykullanicilar\murat\documents\codeblocks programs\erdememirozer\erdememirozer\src\movie.cpp
+	"Movie.h"
+
+1621019724 d:\mykullanicilar\murat\documents\codeblocks programs\erdememirozer\erdememirozer\include\movie.h
+	<iostream>
+
+1621107330 source:d:\mykullanicilar\murat\documents\codeblocks programs\erdememirozer\erdememirozer\main.cpp
+	<iostream>
+	"Movie.h"
+	"MovieList.h"
+
+1621106645 d:\mykullanicilar\murat\documents\codeblocks programs\erdememirozer\erdememirozer\include\movielist.h
+	"Movie.h"
+	<iostream>
+
+1621107110 source:d:\mykullanicilar\murat\documents\codeblocks programs\erdememirozer\erdememirozer\src\movielist.cpp
+	"MovieList.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1621880302 source:c:\users\lenovo\desktop\erdememirozer\main.cpp
+	<iostream>
+	"Movie.h"
+	"MovieList.h"
+
+1621879678 c:\users\lenovo\desktop\erdememirozer\include\movie.h
+	<iostream>
+
+1621879678 c:\users\lenovo\desktop\erdememirozer\include\movielist.h
+	"Movie.h"
+	<iostream>
+
+1621879679 source:c:\users\lenovo\desktop\erdememirozer\src\movielist.cpp
+	"MovieList.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1621879679 source:c:\users\lenovo\desktop\erdememirozer\src\movie.cpp
+	"Movie.h"
+
